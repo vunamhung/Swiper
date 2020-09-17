@@ -1,5 +1,5 @@
 {
-  "name": "swiper-src",
+  "name": "@vunamhung/swiper",
   "version": "6.2.0",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "scripts": {
