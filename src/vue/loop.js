@@ -1,4 +1,4 @@
-import { h } from 'vue';
+import { h } from '@vue/composition-api';
 // eslint-disable-next-line
 import Swiper from '../../core';
 
